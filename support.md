@@ -13,7 +13,7 @@ When you write, it helps to include your iPhone model, iOS version and Lull vers
 ## Frequently asked questions
 
 ### What happens if my Premium ends?
-You keep all your data. You can still see every child you've added, but you can't add more, and history shows the last 3 days. Sync between your devices, trends and reminders stop. Shared children become read-only for partners. Everything comes back when you renew.
+You keep all your data. You can still see every child you've added, but you can't add more, and history shows the last 3 days. Sync between your devices, the weekly trend and reminders stop. Shared children become read-only for partners. Everything comes back when you renew.
 
 ### How do I manage or cancel my subscription?
 Go to **Settings > [your name] > Subscriptions** on your iPhone and choose Lull. Cancel at least 24 hours before the end of your trial or current period to avoid being charged for the next one. Deleting the app does not cancel a subscription.
@@ -47,6 +47,6 @@ With Premium, open your child's **Settings** screen and choose **Share with Part
 I can't see or delete your data myself, because Lull never sends it to me. See the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}).
 
 ### Are the predictions medical advice?
-No. Predictions are estimates based on your baby's age and recent sleep. Always talk to your health visitor, GP or other health professional about your baby's health and sleep. In an emergency, call 999 or your local emergency number.
+No. Predictions are estimates based on your baby's age and today's sleep. Always talk to your health visitor, GP or other health professional about your baby's health and sleep. In an emergency, call 999 or your local emergency number.
 
 [Privacy Policy]({{ '/privacy-policy/' | relative_url }}) · [Terms of Use]({{ '/terms-of-use/' | relative_url }})

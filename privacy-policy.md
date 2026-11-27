@@ -38,7 +38,7 @@ To work, Lull lets you enter the following. It is stored on your device, and in 
 |---|---|
 | Your child's name (or a nickname) | To label their profile, especially if you track more than one child |
 | Your child's date of birth | To work out their age, which the app uses to predict naps and bedtime |
-| Sleep records: sleep and wake times, naps, night wakings and any notes you add | To show history and trends and to make predictions |
+| Sleep records: morning wake times, naps and night sleep (start and end times) | To show history and the weekly trend and to make predictions |
 | App settings, such as reminder times and preferences | To make the app work the way you've set it up |
 
 **Tip:** you don't have to use your child's real name. A nickname or initial works just as well.

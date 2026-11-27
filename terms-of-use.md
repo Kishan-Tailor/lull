@@ -29,11 +29,11 @@ Lull is for **parents and carers aged 18 or over** who want to keep track of a c
 
 ## 3. What Lull does
 
-Lull lets you log a child's sleep, naps and night wakings, and gives **estimated** nap and bedtime times based on the child's age and recent sleep.
+Lull lets you log a child's naps, night sleep and wake times, and gives **estimated** nap and bedtime times based on the child's age and the day's sleep so far.
 
 **Free version** includes: one child, today's predictions, the last 3 days of history, with data stored on your device only. Lull doesn't sync it, except a log someone shares with you, which syncs through iCloud.
 
-**Lull Premium** adds: iCloud sync across your devices, sharing with a partner or carer, multiple children, full history and trends, and reminders.
+**Lull Premium** adds: iCloud sync across your devices, sharing with a partner or carer, multiple children, full history and the weekly trend, and reminders.
 
 I may improve or change features over time. If I make a change that significantly and negatively affects a Premium feature you've paid for, I'll tell you in advance where I reasonably can (at least 30 days before, if possible). You can then cancel your subscription and ask Apple for a refund for the unused part of your subscription. Your statutory rights still apply.
 
@@ -55,7 +55,7 @@ Prices outside the UK are set in your local currency and are shown in the app an
 - **Automatic renewal:** your subscription **renews automatically** for the same period and at the same price **unless you cancel it at least 24 hours before the end of the current period**. Your Apple ID account will be charged for renewal within the 24 hours before the current period ends.
 - **Managing and cancelling:** you can manage or cancel your subscription at any time in **Settings > [your name] > Subscriptions** on your iPhone, or in your Apple ID account settings in the App Store. Deleting the app does **not** cancel your subscription.
 - **When your subscription ends:** you keep Premium until the end of the period you've paid for. After that, the app returns to the free version, and your data isn't deleted:
-  - If you have more than one child, you can still see all of them, but you can't add more. History is limited to the last 3 days, and other Premium features (such as sync between your devices, trends and reminders) stop.
+  - If you have more than one child, you can still see all of them, but you can't add more. History is limited to the last 3 days, and other Premium features (such as sync between your devices, the weekly trend and reminders) stop.
   - Existing shares carry on in **read-only** mode. The people you've invited can still view the records shared up to then, but can't add or edit them. New entries you make stay on your device and are shared again when you renew.
   - You can't change sharing or remove people from inside the app until you renew, but you can end all sharing at any time with **Delete All Data** (**Settings > Your data**).
   - Deleting a child removes it from that iPhone only. People you shared it with keep their copy until you renew or use Delete All Data.

@@ -8,12 +8,12 @@ permalink: /
 
 **Know when the next nap is coming, before the tears do.**
 
-Lull is a calm, simple baby sleep tracker for iPhone. It predicts your baby's next nap and bedtime from their age and recent sleep.
+Lull is a calm, simple baby sleep tracker for iPhone. It predicts your baby's next nap and bedtime from their age and today's sleep.
 
 - **Predictions based on your baby:** next nap and bedtime, updated through the day
-- **One-tap logging:** naps, night sleep and night wakings
+- **Quick logging:** naps and night sleep, with one tap to end a nap
 - **Share the load:** invite a partner or carer through iCloud (Premium; your partner doesn't need their own subscription)
-- **The bigger picture:** full history, trends, multiple children and reminders (Premium)
+- **The bigger picture:** full history, the weekly trend, multiple children and reminders (Premium)
 - **Private by design:** no accounts, no ads, no analytics, no tracking. Your data stays on your device and in your own iCloud.
 
 Free for one child, with today's predictions and 3 days of history. Lull Premium is £29.99 a year (7-day free trial) or £3.99 a month in the UK. Prices vary by country.
