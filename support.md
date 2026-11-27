@@ -12,6 +12,12 @@ When you write, it helps to include your iPhone model, iOS version and Lull vers
 
 ## Frequently asked questions
 
+### How do I add a Lull widget?
+- **Home Screen:** touch and hold the Home Screen, tap **Edit > Add Widget**, choose **Lull**, then pick the small or medium widget. It shows the next nap or bedtime and has a **Start nap** button.
+- **Lock Screen:** touch and hold the Lock Screen, tap **Customize > Lock Screen**, tap the widget area and choose **Lull**. The rectangular widget has a **Start nap** button (it becomes **Start bedtime** in the evening); the circular one shows the next time.
+- **While your baby sleeps:** a Live Activity shows the timer on the Lock Screen and in the Dynamic Island. Tap **Woke up** to end the sleep. If it doesn't appear, check **Settings > Lull > Live Activities** is on.
+- Widgets are free. Add a child in the app first. If a child was shared with you as view-only, the widget shows the times without the buttons.
+
 ### What happens if my Premium ends?
 You keep all your data. You can still see every child you've added, but you can't add more, and history shows the last 3 days. Sync between your devices, the weekly trend and reminders stop. Shared children become read-only for partners. Everything comes back when you renew.
 

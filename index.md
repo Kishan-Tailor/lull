@@ -12,6 +12,7 @@ Lull is a calm, simple baby sleep tracker for iPhone. It predicts your baby's ne
 
 - **Predictions based on your baby:** next nap and bedtime, updated through the day
 - **Quick logging:** naps and night sleep, with one tap to end a nap
+- **Widgets and Live Activity:** start a nap from a Home Screen or Lock Screen widget, then follow the timer and tap Woke up on the Lock Screen or in the Dynamic Island
 - **Share the load:** invite a partner or carer through iCloud (Premium; your partner doesn't need their own subscription)
 - **The bigger picture:** full history, the weekly trend, multiple children and reminders (Premium)
 - **Private by design:** no accounts, no ads, no analytics, no tracking. Your data stays on your device and in your own iCloud.
