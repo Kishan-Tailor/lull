@@ -1,0 +1,15 @@
+# GitHub Pages config for the Lull: Baby Sleep site.
+# Repo name "lull" → site at https://kishan-tailor.github.io/lull/
+title: "Lull: Baby Sleep"
+description: "A calm, private baby sleep tracker for iPhone that predicts naps and bedtime."
+theme: minima
+lang: en-GB
+baseurl: "/lull"        # change to "" if you use a custom domain or a <username>.github.io repo
+url: "https://kishan-tailor.github.io"
+markdown: kramdown
+header_pages:
+  - support.md
+  - privacy-policy.md
+  - terms-of-use.md
+exclude:
+  - README.md
