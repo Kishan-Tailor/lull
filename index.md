@@ -17,7 +17,7 @@ Hullabye is a calm, simple baby sleep tracker for iPhone. It predicts your baby'
 - **The bigger picture:** full history, the weekly trend, multiple children and reminders (Premium)
 - **Private by design:** no accounts, no ads, no analytics, no tracking. Your data stays on your device and in your own iCloud.
 
-Free for one child, with today's predictions and 3 days of history. Hullabye Premium is £29.99 a year (7-day free trial) or £3.99 a month in the UK. Prices vary by country.
+Free for one child, with today's predictions and 3 days of history. Hullabye Premium is £29.99 a year (14-day free trial) or £3.99 a month in the UK. Prices vary by country.
 
 Coming soon to the App Store
 

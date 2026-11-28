@@ -43,7 +43,7 @@ Hullabye Premium is an **auto-renewing subscription** sold through Apple In-App 
 
 | Subscription | Length | Price (UK) | Free trial |
 |---|---|---|---|
-| Hullabye Premium Yearly | 1 year | £29.99 per year | 7-day free trial for eligible new subscribers |
+| Hullabye Premium Yearly | 1 year | £29.99 per year | 14-day free trial for eligible new subscribers |
 | Hullabye Premium Monthly | 1 month | £3.99 per month | None |
 
 Prices outside the UK are set in your local currency and are shown in the app and the App Store before you buy. Prices include any applicable VAT or sales tax.
@@ -51,7 +51,7 @@ Prices outside the UK are set in your local currency and are shown in the app an
 **Please note:**
 
 - **Payment:** your payment is charged to your Apple ID account when you confirm the purchase, or, if you start a free trial, when the trial ends.
-- **Free trial:** the 7-day free trial is available on the Yearly plan to eligible users (generally once per Apple ID for this subscription group). **Unless you cancel at least 24 hours before the trial ends, it automatically converts to a paid Yearly subscription at £29.99 per year** (or the local equivalent shown to you), and you'll be charged at the end of the trial. If you buy a different Hullabye Premium plan during your free trial, the rest of the trial ends.
+- **Free trial:** the 14-day free trial is available on the Yearly plan to eligible users (generally once per Apple ID for this subscription group). **Unless you cancel at least 24 hours before the trial ends, it automatically converts to a paid Yearly subscription at £29.99 per year** (or the local equivalent shown to you), and you'll be charged at the end of the trial. If you buy a different Hullabye Premium plan during your free trial, the rest of the trial ends.
 - **Automatic renewal:** your subscription **renews automatically** for the same period and at the same price **unless you cancel it at least 24 hours before the end of the current period**. Your Apple ID account will be charged for renewal within the 24 hours before the current period ends.
 - **Managing and cancelling:** you can manage or cancel your subscription at any time in **Settings > [your name] > Subscriptions** on your iPhone, or in your Apple ID account settings in the App Store. Deleting the app does **not** cancel your subscription.
 - **When your subscription ends:** you keep Premium until the end of the period you've paid for. After that, the app returns to the free version, and your data isn't deleted:
