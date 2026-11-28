@@ -1,6 +1,6 @@
-# GitHub Pages config for the Lull: Baby Sleep site.
+# GitHub Pages config for the Hullabye: Baby Sleep site.
 # Repo name "lull" → site at https://kishan-tailor.github.io/lull/
-title: "Lull: Baby Sleep"
+title: "Hullabye: Baby Sleep"
 description: "A calm, private baby sleep tracker for iPhone that predicts naps and bedtime."
 theme: minima
 lang: en-GB

@@ -1,4 +1,4 @@
-# Lull site (GitHub Pages)
+# Hullabye site (GitHub Pages)
 
 Published at <https://kishan-tailor.github.io/lull/>, with pages at:
 
